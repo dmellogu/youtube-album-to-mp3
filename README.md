@@ -12,8 +12,8 @@ To run this project, you need to have a local installation of Node.js present on
 
 #### Checkout the project from Github to a local folder
 
-`git clone https://github.com/dmellogu/youtube-album-to-mp3`
-`cd youtube-album-to-mp3`
+`git clone https://github.com/dmellogu/youtube-album-to-mp3`<br />
+`cd youtube-album-to-mp3`<br />
 `npm ci`
 
 ## Running
