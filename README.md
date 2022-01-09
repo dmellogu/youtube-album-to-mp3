@@ -20,10 +20,10 @@ To run this project, you need to have a local installation of Node.js present on
 
 ### Basic example
 
-A basic usage example is the following:
+A basic usage example is the following:<br />
 `node index.js --video "https://www.youtube.com/watch?v=3ces6njZP94&ab_channel=Kizzy" --timestamps "time.txt"`
 
-You must specify the path to a text file containing timestamps formatted as:
+You must specify the path to a text file containing timestamps formatted as:<br />
 `[hh:]mm:ss - My Music Name`
 
 ## Special Thanks
