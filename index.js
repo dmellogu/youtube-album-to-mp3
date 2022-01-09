@@ -25,6 +25,10 @@ if (options.video && options.timestamps) {
       quality: "highestaudio",
       sections: songs
     });
-    split.parse();
+    console.log("Starting to split mp3 file.")
+    split.parse()
+      .then((sections) => {
+        console.log("Complete!")
+      });
   });
 }
