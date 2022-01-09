@@ -12,7 +12,7 @@ To run this project, you need to have a local installation of Node.js present on
 
 #### Checkout the project from Github to a local folder
 
-`git clone https://github.com/dmellogu/youtube-album-to-mp3`<br />
+`git clone https://github.com/dmellogu/youtube-album-to-mp3.git`<br />
 `cd youtube-album-to-mp3`<br />
 `npm ci`
 
@@ -25,10 +25,6 @@ A basic usage example is the following:<br />
 
 You must specify the path to a text file containing timestamps formatted as:<br />
 `[hh:]mm:ss - My Music Name`
-
-## Special Thanks
-
-Hey Vik :wink: Until Nintendo uploads their music to Spotify, I hope this will make due.
 
 ## Credits
 
