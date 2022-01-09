@@ -12,7 +12,7 @@ To run this project, you need to have a local installation of Node.js present on
 
 #### Checkout the project from Github to a local folder
 
-`git clone https://github.com/ytb2mp3/youtube-mp3-downloader.git`
+`git clone https://github.com/dmellogu/youtube-album-to-mp3`
 
 ## Running
 
