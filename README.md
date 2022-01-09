@@ -30,7 +30,7 @@ Hey Vik :wink: Until Nintendo uploads their music to Spotify, I hope this will m
 
 ## Credits
 
-commander: https://github.com/tj/commander.js
-downloads-folder: https://github.com/juliangruber/downloads-folder
-ffmpeg-static: https://github.com/eugeneware/ffmpeg-static
+commander: https://github.com/tj/commander.js <br />
+downloads-folder: https://github.com/juliangruber/downloads-folder <br />
+ffmpeg-static: https://github.com/eugeneware/ffmpeg-static <br />
 media-split: https://github.com/skiptirengu/media-split
