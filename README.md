@@ -23,3 +23,14 @@ A basic usage example is the following:
 
 You must specify the path to a text file containing timestamps formatted as:
 `[hh:]mm:ss - My Music Name`
+
+## Special Thanks
+
+Hey Vik :wink: Until Nintendo uploads their music to Spotify, I hope this will make due.
+
+## Credits
+
+commander: https://github.com/tj/commander.js
+downloads-folder: https://github.com/juliangruber/downloads-folder
+ffmpeg-static: https://github.com/eugeneware/ffmpeg-static
+media-split: https://github.com/skiptirengu/media-split
